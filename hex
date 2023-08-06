@@ -1,0 +1,7 @@
+Ok to solve this problem we can use python code...we will use bytes.fromhex funtion to convert a hex code to ascii
+here is the code:
+          h="63727970746f7b596f755f77696c6c5f62655f776f726b696e675f776974685f6865785f737472696e67735f615f6c6f747d"
+          re=bytes.fromhex(h)
+          print(re)
+and you can use online tool also...
+happy_hacking!!!!!!
